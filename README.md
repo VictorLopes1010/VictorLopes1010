@@ -3,6 +3,7 @@
 Olá, sou o Victor, um profissional apaixonado por Tecnologia da Informação com uma sólida formação e ampla experiência. Minha jornada inclui:
 
 🎓 Técnico em Automação Industrial pelo Instituto Federal de Minas Gerais.
+
 🎓 Graduação em Análise e Desenvolvimento de Sistemas pela PUC Minas.
 
 Atualmente, estou desempenhando o papel de Desenvolvedor Full Stack no Grupo SFA, onde aplico minha paixão pela tecnologia em um ambiente dinâmico e desafiador.
