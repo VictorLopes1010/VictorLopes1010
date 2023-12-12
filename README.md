@@ -23,7 +23,7 @@ Estou sempre em busca de novos desafios e oportunidades para crescer profissiona
 
 Se você está interessado em colaborar, compartilhar ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato.
 
-[![Linkedin](https://img.shields.io/badge/-Victor-blue?style=flat&logo=Linkedin&logoColor=white&link=COLOQUE_SEU_LINK_AQUI)](COLOQUE_SEU_LINK_AQUI)
-[![GitHub](https://img.shields.io/badge/-victor-gray?style=flat&logo=GitHub&logoColor=white&link=COLOQUE_SEU_LINK_AQUI)](COLOQUE_SEU_LINK_AQUI)
+[![Linkedin](https://img.shields.io/badge/-Victor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santos-a6b3491a2/)](https://www.linkedin.com/in/victor-santos-a6b3491a2/)
+[![GitHub](https://img.shields.io/badge/-victor-gray?style=flat&logo=GitHub&logoColor=white&link=https://github.com/VictorLopes1010)](https://github.com/VictorLopes1010)
 
 Estou animado para enfrentar novos desafios e contribuir para projetos empolgantes. Vamos construir algo incrível juntos! 🚀
